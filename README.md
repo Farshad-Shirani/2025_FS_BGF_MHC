@@ -25,6 +25,6 @@ These MATLAB codes numerically compute solutions of systems of partial different
 
 ## Which simulation (folder) is associate with which figure?
 
-- The code in the folder `Range Dynamics s` is associated with Figures 1, 2, and 3 in the paper.
+- The code in the folder `Range Dynamics` is associated with Figures 1, 2, and 3 in the paper.
 
 - The code in the folder `Environmental Fluctuations` is is associated with Figure 4 in the paper.
