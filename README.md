@@ -6,7 +6,7 @@ Written by Farshad Shirani (f.shirani@gatech.edu), October 15, 2025. Updated on 
 
 This repository contains MATLAB codes used in the article:
 
-"Coevolution of Species’ Range Borders: Interactions Between Interspecific Competition, Gene Flow, and Matching Habitat Choice", F. Shirani, J. R. Miller, and B. G. Freeman, (2026).
+F. Shirani, J. R. Miller, and B. G. Freeman, "Coevolution of Species’ Range Borders: Interactions Between Interspecific Competition, Gene Flow, and Matching Habitat Choice", Evolution Letters, (2026).
 
 All codes are written in MATLAB R2024b.
 
