@@ -21,7 +21,7 @@ These MATLAB codes numerically compute solutions of systems of partial different
 
 - Each folder contains a script named `Main_Simulation`, which is the main code that performs the simulations based on the parameters set in the function `initializeSimulation`. When a simulation is complete, the resulting solutions can be saved using the `save` command provided at the end of the script. The computed solutions are stored in a structure array named `populations`. The parameters are also stored in three different structures, named `modelParameters`, `simulationParameters`, and `discretizationParamaters`. The path given to the `save` command should include the subfolder name `Results`, so that all simulation results are organized in this subfolder. The `Results` folder is currently loaded with the simulation results that the authors have performed and used in the above-mentioned paper.
 
-- The results can be plotted using the script `Plotting` available in each folder. The path of the results to be plotted should be given in the `load` command at the beginning of the script. The parameter `incrementSize` inside the script should be set to the desired incremental time steps that the resulting curves should be plotted.
+- The results can be plotted using the scripts `Plotting_***` available in each folder. The path of the results to be plotted should be given in the `load` command at the beginning of the script. The parameter `incrementSize` inside the script should be set to the desired incremental time steps that the resulting curves should be plotted.
 
 ## Which simulation (folder) is associate with which figure?
 
