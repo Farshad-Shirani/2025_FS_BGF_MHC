@@ -2,7 +2,7 @@
 
 # Interspecific Competition can Set Range Limits for Adaptively Dispersing Species
 
-Written by Farshad Shirani (f.shirani@gatech.edu), October 15, 2025.
+Written by Farshad Shirani (f.shirani@gatech.edu), October 15, 2025. Updated on May 3, 2026.
 
 This repository contains MATLAB codes used in the article:
 
