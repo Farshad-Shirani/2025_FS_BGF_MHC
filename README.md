@@ -6,7 +6,7 @@ Written by Farshad Shirani (f.shirani@gatech.edu), October 15, 2025.
 
 This repository contains MATLAB codes used in the article:
 
-"Coevolution of Species’ Borders: Interactions Between Interspecific Competition, Gene Flow, and Matching Habitat Choice", F. Shirani and B. G. Freeman, (2025).
+"Coevolution of Species’ Range Borders: Interactions Between Interspecific Competition, Gene Flow, and Matching Habitat Choice", F. Shirani, J. R. Miller, and B. G. Freeman, (2026).
 
 All codes are written in MATLAB R2024b.
 
@@ -25,6 +25,6 @@ These MATLAB codes numerically compute solutions of systems of partial different
 
 ## Which simulation (folder) is associate with which figure?
 
-- The code in the folder `Range Dynamics` is associated with Figures 1, 2, and 3 in the paper.
+- The code in the folder `Range Dynamics` is associated with Figures 1, 2, 3, and 4 in the paper.
 
-- The code in the folder `Environmental Fluctuations` is is associated with Figure 4 in the paper.
+- The code in the folder `Environmental Fluctuations` is associated with Figure 5 in the paper.
